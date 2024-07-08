@@ -5,10 +5,6 @@ paper
 note
   template(v-if='!seenEgg')
     p it's not always perfect to make clones.
-  template(v-else)
-    p <b>Congrats!</b>
-    p It's our pet goldfish drew by my girlfriend <a href="https://twitter.com/iiiiiiines_____" target='_blank'>Inès</a>. Hope you had fun with this little game and you can definitely show off a bit on Twitter :)
-    p.op50 (let me know by pinning @antfu7)
 </template>
 
 <script setup lang='ts'>

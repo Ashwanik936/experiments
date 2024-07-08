@@ -6,7 +6,7 @@
     slot
 
     br
-    a.link.mr-3(:href='`https://github.com/antfu/100/blob/main/src/pages/${no}.vue`') source
+    a.link.mr-3(:href='`https://github.com/Ashwanik936/experiments/blob/main/src/pages/${no}.vue`') source
 </template>
 
 <script setup lang='ts'>

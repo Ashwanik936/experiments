@@ -19,13 +19,7 @@ useTitle('100 days')
         span.mr-2.opacity-50 {{ work.no }}
         b {{ work.name }}
     h1.font-mono.mb-2.mt-8
-      a.link(href='https://antfu.me' target='_blank') @antfu
-      span.mx-1.op75 .
-      a.link(href='https://twitter.com/antfu7/status/1325977074813739009' target='_blank') twitter
-      span.mx-1.op75 .
-      a.link(href='https://github.com/antfu/100' target='_blank') github
-      span.mx-1.op75 .
-      a.link(href='https://codecember.netlify.app' target='_blank') codecember
+      a.link(href='https://ashwani.online' target='_blank') @Interstaller7
       span.mx-1.op75 .
       button.link(@click="toggleDark()") {{ isDark ? 'dark' : 'light' }}
       br
